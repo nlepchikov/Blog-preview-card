@@ -89,7 +89,7 @@ color: var(--color-black);
   font-size: 24px;
   font-weight: 800;
   color: var(--color-black);
-  transition: background-color 0.3s ease, cloor 0.3s ease;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .card-title:hover{
